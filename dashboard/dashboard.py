@@ -30,6 +30,8 @@ ax.set_xlabel("Date")
 ax.set_ylabel("Quantity") 
 st.pyplot(fig)
 
+st.text("Lots of bikers do bike in March 'till August. From the above graph, we could also see a visible increment from 2011 to 2012.")
+
 # weather condition
 st.subheader('Does weather matter? I\'d say so!')
 
